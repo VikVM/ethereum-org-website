@@ -500,6 +500,8 @@ If you plan on querying an on-chain oracle for asset prices, consider using one 
 
 - **[Runtime Verification](https://runtimeverification.com/)** - _Security company specializing in formal modeling and verification of smart contracts._
 
+- **[Oxorio](https://oxor.io)** - _Smart contract audits and security services with expertise in EVM, ZK, Cross-chain tech for crypto firms and DeFi projects_.
+
 - **[Hacken](https://hacken.io)** - _Web3 cybersecurity auditor bringing the 360-degree approach to blockchain security._
 
 - **[Nethermind](https://nethermind.io/smart-contracts-audits)** - _Solidity and Cairo auditing services, ensuring the integrity of smart contracts and the safety of users across Ethereum and Starknet._
